@@ -9,8 +9,7 @@ import com.dbraga.springbat.service.UserService;
 public class App 
 {
     @SuppressWarnings("resource")
-	public static void main( String[] args )
-    {
+	public static void main( String[] args ) {
     	// loading the definitions from the given XML file
 		ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
  

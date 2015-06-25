@@ -9,7 +9,7 @@ import org.springframework.transaction.annotation.Transactional;
 import com.dbraga.springbat.dao.UserDao;
 import com.dbraga.springbat.entity.User;
 
-@Service("helloWorldService")
+@Service("userService")
 public class UserService {
 	
 	@Autowired
