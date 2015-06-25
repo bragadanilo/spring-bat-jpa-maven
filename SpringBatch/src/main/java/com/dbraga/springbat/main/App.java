@@ -1,4 +1,4 @@
-package com.dbraga.springbat;
+package com.dbraga.springbat.main;
 
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
